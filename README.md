@@ -11,19 +11,20 @@ Bienvenido a mi repositorio personal. Este espacio está dedicado a mostrar mis 
 * [Contacto](#contacto)
 
 ## Información Personal
-* **Nombre:** [Tu nombre]
+* **Nombre:** Ariana Palacios
 * **Ocupación:** Estudiante de Ingeniería en Computación
 * **Lugar de residencia:** Ecuador
-* **Perfil profesional:** [LinkedIn o algún enlace a tu perfil público] (opcional)
-* **Descripción breve:** Soy un estudiante apasionado por la tecnología, con especial interés en el desarrollo de software, la inteligencia artificial y la programación de sistemas complejos.
+* **Perfil profesional:** (Linkedln) https://ec.linkedin.com/in/ariana-palacios-s%C3%A1enz-474810247
+* **Descripción breve:** Soy una estudiante apasionada por la tecnología, con especial interés en el desarrollo de software, la inteligencia artificial y la programación de sistemas complejos.
 
 ## Proyectos Destacados
 Aquí encontrarás una lista de mis proyectos más relevantes:
 
-### Proyecto 1: **[Nombre del Proyecto]**
+### Proyecto Programacion Orientada a Objetos: **[Concesionaria de Automoviles]**
+* **Colaboradores:** Ariana Palacios, Diego Flores, Alex Vizuete.
 * **Descripción:** Breve descripción del proyecto, objetivos y resultados.
-* **Tecnologías utilizadas:** [Lista de tecnologías]
-* **Estado:** En desarrollo / Completado / Pausado
+* **Tecnologías utilizadas:** [Java] [JavaFX]
+* **Estado:**  Completado
 * **[Enlace al repositorio del proyecto o demo]** (opcional)
 
 ### Proyecto 2: **[Nombre del Proyecto]**
@@ -43,7 +44,7 @@ Estas son algunas de las tecnologías con las que he trabajado y estoy familiari
 
 * **Lenguajes de Programación:** C, Java, Python, JavaScript
 * **Frameworks y Librerías:** React, Flask, Express.js
-* **Plataformas y Herramientas:** GitHub, Docker, Firebase, Arduino
+* **Plataformas y Herramientas:** GitHub, Arduino
 * **Otros:** Inteligencia Artificial, Machine Learning, Desarrollo Web
 
 ## Estado de los Proyectos
@@ -58,8 +59,8 @@ Aquí se detalla el estado actual de mis proyectos personales:
 ## Contacto
 Si deseas saber más sobre mí o mis proyectos, puedes contactarme a través de:
 
-* **Correo institucional:** [correo@institucion.edu]
-* **GitHub:** [Tu perfil de GitHub](https://github.com/tuusuario)
+* **Correo institucional:** [aripsaen@espol.edu.ec]
+* **GitHub:** [Tu perfil de GitHub](https://github.com/Aripsaen)
 
 ¡Gracias por visitar mi repositorio personal!
 
