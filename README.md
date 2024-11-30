@@ -1,4 +1,4 @@
-# DAWN01
+# 🐛 Ariana Palacios
 Primera actividad de DAWN (guía 01)
 # Mi Repositorio Personal
 Bienvenido a mi repositorio personal. Este espacio está dedicado a mostrar mis proyectos y compartir información sobre mi experiencia, habilidades y tecnologías con las que he trabajado.
