@@ -6,8 +6,8 @@ Bienvenido a mi repositorio personal. Este espacio está dedicado a mostrar mis 
 ## Contenido
 * [Información Personal](#información-personal)
 * [Proyectos Destacados](#proyectos-destacados)
-* [Tecnologías Utilizadas](#tecnologías-utilizadas)
-* [Estado de los Proyectos](#estado-de-los-proyectos)
+* [Tecnologías Utilizadas](#Intereses)
+* [Intereses](#estado-de-los-proyectos)
 * [Contacto](#contacto)
 
 ## Información Personal
@@ -20,49 +20,37 @@ Bienvenido a mi repositorio personal. Este espacio está dedicado a mostrar mis 
 ## Proyectos Destacados
 Aquí encontrarás una lista de mis proyectos más relevantes:
 
-### Proyecto Programacion Orientada a Objetos: **[Concesionaria de Automoviles]**
-* **Colaboradores:** Ariana Palacios, Diego Flores, Alex Vizuete.
-* **Descripción:** Breve descripción del proyecto, objetivos y resultados.
-* **Tecnologías utilizadas:** [Java] [JavaFX]
-* **Estado:**  Completado
-* **[Enlace al repositorio del proyecto o demo]** (opcional)
+Aquí se detalla el estado actual de mis proyectos personales:
 
-### Proyecto 2: **[Nombre del Proyecto]**
-* **Descripción:** Breve descripción del proyecto, objetivos y resultados.
-* **Tecnologías utilizadas:** [Lista de tecnologías]
-* **Estado:** En desarrollo / Completado / Pausado
-* **[Enlace al repositorio del proyecto o demo]** (opcional)
+| Proyecto                         | Integrantes       | estado |
+|----------------------------------|--------------|----------------------|
+| Concesionaria de Automoviles | Ariana Palacios, Diego Flores, Alex Vizuete. | Completado     |
+| Análisis de correlación de resultados electorales | Ariana Palacios, Emmanuel Rivas, Isaac Criollo, Piero Pazmino | Completado |
+| Tres en Raya             | Ariana Palacios, Jose Julio Suárez, Adrián Delgado   | Completado           |
 
-### Proyecto 3: **[Nombre del Proyecto]**
-* **Descripción:** Breve descripción del proyecto, objetivos y resultados.
-* **Tecnologías utilizadas:** [Lista de tecnologías]
-* **Estado:** En desarrollo / Completado / Pausado
-* **[Enlace al repositorio del proyecto o demo]** (opcional)
 
 ## Tecnologías Utilizadas
 Estas son algunas de las tecnologías con las que he trabajado y estoy familiarizado:
 
 ## Lenguajes de Programación:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-* **Lenguajes de Programación:** C, Java, Python, JavaScript
-* **Frameworks y Librerías:** React, Flask, Express.js
-* **Plataformas y Herramientas:** GitHub, Arduino
-* **Otros:** Inteligencia Artificial, Machine Learning, Desarrollo Web
+[![lenguajes](https://skillicons.dev/icons?i=c,java,javascript,py,r)](https://skillicons.dev)
+## Frameworks y Librerías
+[![lenguajes](https://skillicons.dev/icons?i=react,angular,flutter)](https://skillicons.dev)
+## Plataformas y Herramientas:
+[![lenguajes](https://skillicons.dev/icons?i=vscode,eclipse,windows,linux)](https://skillicons.dev)
 
-## Estado de los Proyectos
-Aquí se detalla el estado actual de mis proyectos personales:
 
-| Proyecto                         | Estado       | Última Actualización |
-|----------------------------------|--------------|----------------------|
-| Proyecto de Control de Iluminación | En Desarrollo | Septiembre 2024      |
-| Sistema de Pago sin Contacto     | Pausado      | Agosto 2024          |
-| Plataforma Educativa             | Completado   | Julio 2024           |
+
+## Intereses
+* **Análisis de datos:** Me interesa explorar grandes volúmenes de datos para identificar patrones y tendencias, limpiarlos para asegurar su calidad, visualizarlos de manera efectiva mediante gráficos y tablas, y analizarlos utilizando estadísticas para tomar decisiones informadas y resolver problemas.
+* **Sistemas embebidos:** Me interesa diseñar y programar dispositivos embebidos, como microcontroladores y sensores, para crear productos tecnológicos innovadores. Me atrae trabajar en la integración de hardware y software para desarrollar sistemas que interactúan con el mundo físico y realizan tareas específicas de manera eficiente.
+* **Seguridad informática:** Me interesa proteger sistemas y redes de amenazas externas e internas. Me atrae estudiar ciberseguridad, vulnerabilidades de software, criptografía y análisis forense para prevenir ataques y mantener la integridad de la información.
 
 ## Contacto
 Si deseas saber más sobre mí o mis proyectos, puedes contactarme a través de:
 
-* **Correo institucional:** [aripsaen@espol.edu.ec]
-* **GitHub:** [Tu perfil de GitHub](https://github.com/Aripsaen)
+* **Correo institucional:** aripsaen@espol.edu.ec
+* **GitHub:** [GitHub](https://github.com/Aripsaen)
 
 ¡Gracias por visitar mi repositorio personal!
 
