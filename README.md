@@ -42,7 +42,7 @@ Aquí encontrarás una lista de mis proyectos más relevantes:
 ## Tecnologías Utilizadas
 Estas son algunas de las tecnologías con las que he trabajado y estoy familiarizado:
 
-* **Lenguajes de Programación:**
+##Lenguajes de Programación:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 * **Lenguajes de Programación:** C, Java, Python, JavaScript
 * **Frameworks y Librerías:** React, Flask, Express.js
